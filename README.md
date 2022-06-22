@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @spany14
+- 👋 Hi, I’m spandana
 - 👀 I’m interested in AR and Computer Vision
 - 🌱 I’m currently studying Masters in Embedded Systems Engineering 
 - 📫 How to reach me : On linkedin under Spandana Matapathi
