@@ -1,6 +1,6 @@
 - 👋 Hi, I’m spandana
 - 👀 I’m interested in AR and Computer Vision
-- 🌱 I’m currently studying Masters in Embedded Systems Engineering 
+- 🌱 I’m currently working as Mixed Reality Software Engineer at RWTH 
 - 📫 How to reach me : On linkedin under Spandana Matapathi
 
 <!---
